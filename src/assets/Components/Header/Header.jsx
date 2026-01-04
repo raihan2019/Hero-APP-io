@@ -35,10 +35,8 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a href="https://github.com/st-shourov12" target='_blank' className="btn lg:text-lg bg-linear-to-br from-[#632ee3] to-[#9f62f2] space-x-1 text-white">
-                    <img src={Github} alt="Github" />
-                    Contribute
-                </a>
+                <a href="https://github.com/raihan2019" target='_blank' className="btn lg:text-lg bg-linear-to-br from-[#632ee3] to-[#9f62f2] space-x-1 text-white">
+                    <img src={Github} alt="Github"/>Contribute </a>
             </div>
         </div>
     );

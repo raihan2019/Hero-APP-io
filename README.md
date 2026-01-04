@@ -120,14 +120,8 @@ yarn dev
 ### Step 5: Open in Browser
 
 The application will start running on your local server. Open your browser and navigate to:
-
-```
-http://localhost:5173
-```
-
-Or check the terminal output for the exact URL.
-
----
+ 
+ ## local host server
 
 ## 📁 Project Structure
 
@@ -172,10 +166,10 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-**MD. Mirazul Islam Shourov**
+**MD Raihan**
 
-- GitHub: 
-- Live Server Link: 
+- GitHub: https://github.com/raihan2019
+- Live Server Link: https://heroapp-io.netlify.app/
 ---
 
 ## 📝 License

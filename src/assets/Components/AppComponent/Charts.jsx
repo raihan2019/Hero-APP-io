@@ -31,13 +31,13 @@ const Charts = ({ratings}) => {
           }}
           barCategoryGap={"15%"}
         >
-          <CartesianGrid strokeDasharray="3 3" stroke="#f5f5f5" />
-          <XAxis type="number" />
-          <YAxis dataKey="name" type="category"  />
-          <Tooltip />
-          <Legend />
+          <CartesianGrid strokeDasharray="3 3" stroke="#f5f5f5"/>
+          <XAxis type="number"/>
+          <YAxis dataKey="name" type="category"/>
+          <Tooltip/>
+          <Legend/>
           
-          <Bar dataKey="count" barSize={25} fill="#ff8811" />
+          <Bar dataKey="count" barSize={25} fill="#ff8811"/>
           
         </ComposedChart>
       </ResponsiveContainer>

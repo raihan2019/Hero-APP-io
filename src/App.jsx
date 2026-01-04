@@ -22,11 +22,11 @@ function App() {
     <>
       <Header></Header>
       {
-        loader ? <Spinner /> :
+        loader ? <Spinner/> :
         <Outlet></Outlet>
       }
       <Footer></Footer>
-      <ToastContainer />
+      <ToastContainer/>
       
     </>
   )

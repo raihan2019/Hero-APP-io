@@ -32,7 +32,7 @@ const AppComponent = () => {
 
     
     if (loading) {
-        return <Spinner />;
+        return <Spinner/>;
     }
     
     return (

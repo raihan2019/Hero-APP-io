@@ -51,7 +51,7 @@ const AppDetails = () => {
         toast(
             <div className='text-[red] flex gap-2'>
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 shrink-0 stroke-current" fill="none" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
                 </svg> {title} is already Installed
             </div>
         );
@@ -72,42 +72,34 @@ const AppDetails = () => {
                         <h2 className="text-3xl font-bold">
                             {title}
                         </h2>
-                        <h3 className="font-semibold text-gray-600">
-                        Developed by <span className='text-[#632ee3]'>{companyName}</span> 
+                        <h3 className="font-semibold text-gray-600"> Developed by <span className='text-[#632ee3]'>{companyName}</span> 
                         </h3>
 
                     </div>
                     <div className="cont flex gap-10 items-center">
                         <div className="card space-y-2">
                             <img src={Downloads} alt={id} className='w-10 h-10'/>
-                            <p className="text-gray-600">
-                                Downloads
-                            </p>
+                            <p className="text-gray-600">Downloads</p>
                             <h3 className="text-2xl font-bold">
                                 {downloads}
                             </h3>
                         </div>
                         <div className="card space-y-2">
                             <img src={Ratings} alt={id} className='w-10 h-10'/>
-                            <p className="text-gray-600">
-                                Ratings
-                            </p>
+                            <p className="text-gray-600">Ratings</p>
                             <h3 className="text-2xl font-bold">
                                 {ratingAvg}
                             </h3>
                         </div>
                         <div className="card space-y-2">
                             <img src={Reviews} alt={id} className='w-10 h-10'/>
-                            <p className="text-gray-600">
-                                Reviews
-                            </p>
+                            <p className="text-gray-600">Reviews</p>
                             <h3 className="text-2xl font-bold">
                                 {reviews}
                             </h3>
                         </div>
                     </div>
-                    <div>
-                        
+                    <div>                    
                         <button onClick={()=>{ isdisabled ? handleAlreadyInstall({title}) : handleInstall({title})}} className={`${isdisabled? 'bg-gray-600':'bg-[#00d390]'} text-white px-4 py-3 rounded-xl`}>{`${isdisabled ? 'Installed' :`Install Now (${size}MB)`} `}</button>
                     </div>
                 </div>

@@ -14,16 +14,15 @@ const Apps = ({ app}) => {
                             </h3>
                             <div className="flex justify-between items-center">
                                 <p className="font-bold flex items-center gap-2 text-[#00d390]">
-                                    <img src={Download} className='w-4 h-4' alt="" />
+                                    <img src={Download} className='w-4 h-4' alt=""/>
                                     {app.downloads}
                                 </p>
                                 <p className="font-bold flex items-center gap-2 text-[#00d390]">
-                                    <img src={ratings} className='w-4 h-4' alt="" />
+                                    <img src={ratings} className='w-4 h-4' alt=""/>
                                     {app.ratingAvg}
                                 </p>
                             </div>
-
-        </Link>
+    </Link>
     );
 };
 
