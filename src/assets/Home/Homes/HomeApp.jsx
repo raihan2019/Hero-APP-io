@@ -8,7 +8,7 @@ const HomeApp = () => {
     const featuredApps = apps.slice(0 , 8)
     return (
         <div className='p-5 xl:p-10 2xl:p-20 text-center bg-[#efefef]'>
-            <h2 className="text-3xl font-bold">Trending Apps</h2>
+            <h2 className="text-4xl font-bold">Trending Apps</h2>
             <p className='text-gray-600 py-3'>Explore All Trending Apps on the Market developed by us</p>
 
             {loading ? <Spinner></Spinner>:
