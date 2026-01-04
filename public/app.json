@@ -1,0 +1,435 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/YBbDs3mJ/chatmaster.png",
+    "title": "ChatMaster",
+    "companyName": "TechSoft Inc.",
+    "description": "ChatMaster is an advanced messaging app built with smart AI assistants.\nYou can chat one-on-one or in groups, send multimedia, voice notes, and more.\nSmart replies, message reactions, themes, and offline support all come built-in.\nIts encryption ensures your conversations are safe and private.",
+    "size": 48,
+    "reviews": 1450,
+    "ratingAvg": 4.6,
+    "downloads": "60k",
+    "ratings": [
+      { "name": "5 star", "count": 900 },
+      { "name": "4 star", "count": 350 },
+      { "name": "3 star", "count": 120 },
+      { "name": "2 star", "count": 50 },
+      { "name": "1 star", "count": 30 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/kVkfTR6f/PhotoPro.png",
+    "title": "PhotoPro",
+    "companyName": "PixelWorks",
+    "description": "PhotoPro is your full-suite photo editing toolkit.\nFrom color grading, curves, filters, retouching, layering to batch editing, it’s all here.\nYou can import RAW files, export in multiple formats, and share to social media directly.\nIdeal for photographers and hobbyists who want powerful tools in a mobile app.",
+    "size": 62,
+    "reviews": 1120,
+    "ratingAvg": 4.3,
+    "downloads": "45k",
+    "ratings": [
+      { "name": "5 star", "count": 600 },
+      { "name": "4 star", "count": 300 },
+      { "name": "3 star", "count": 150 },
+      { "name": "2 star", "count": 50 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/gbgG6pyq/FitTrack.png",
+    "title": "FitTrack",
+    "companyName": "Healthify",
+    "description": "FitTrack is your personal fitness companion.\nTrack workouts, steps, calories, heart rate, and sleep patterns with ease.\nSet goals, get health insights, sync with wearables and monitoring devices.\nMotivational reminders, progress charts, and community challenges are built-in features.",
+    "size": 38,
+    "reviews": 980,
+    "ratingAvg": 4.7,
+    "downloads": "70k",
+    "ratings": [
+      { "name": "5 star", "count": 650 },
+      { "name": "4 star", "count": 230 },
+      { "name": "3 star", "count": 70 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/CKK7vpPx/NoteWise.jpg",
+    "title": "NoteWise",
+    "companyName": "SmartApps",
+    "description": "NoteWise helps you capture ideas and stay organized.\nWrite notes, checklists, voice memos, and sketches.\nUse tags, folders, search, cloud sync, and sharing features.\nIt works offline and automatically syncs when you're online again.",
+    "size": 27,
+    "reviews": 820,
+    "ratingAvg": 4.2,
+    "downloads": "38k",
+    "ratings": [
+      { "name": "5 star", "count": 400 },
+      { "name": "4 star", "count": 280 },
+      { "name": "3 star", "count": 100 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/27RsMDsK/Travel-Buddy.png",
+    "title": "TravelBuddy",
+    "companyName": "WanderTech",
+    "description": "TravelBuddy is your all-in-one trip planner.\nSearch flights, hotels, and activities in one place.\nIt offers offline maps, local guides, itinerary sharing, and alerts for price drops.\nYou can also get personalized recommendations based on your travel style.",
+    "size": 55,
+    "reviews": 1270,
+    "ratingAvg": 4.5,
+    "downloads": "90k",
+    "ratings": [
+      { "name": "5 star", "count": 700 },
+      { "name": "4 star", "count": 350 },
+      { "name": "3 star", "count": 150 },
+      { "name": "2 star", "count": 50 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/qY5xZZ68/Foodie2.jpg",
+    "title": "Foodie",
+    "companyName": "YumSoft",
+    "description": "Foodie helps you explore local restaurants and recipes.\nBrowse menus, read reviews, and order delivery or takeout.\nIt also has a recipe section with step-by-step guides and ingredient lists.\nTrack caloric intake, nutrition, and share your cooking creations.",
+    "size": 42,
+    "reviews": 960,
+    "ratingAvg": 4.4,
+    "downloads": "52k",
+    "ratings": [
+      { "name": "5 star", "count": 550 },
+      { "name": "4 star", "count": 300 },
+      { "name": "3 star", "count": 90 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/RGWWP6K5/Game-Zone2.png",
+    "title": "GameZone",
+    "companyName": "FunCorp",
+    "description": "GameZone is your hub for mobile gaming.\nBrowse games, get recommendations, join tournaments, and chat with friends.\nIt also features leaderboards, daily challenges, and exclusive rewards.\nGame discovery and personalized picks make it easy to find new favorites.",
+    "size": 125,
+    "reviews": 1600,
+    "ratingAvg": 4.8,
+    "downloads": "150k",
+    "ratings": [
+      { "name": "5 star", "count": 950 },
+      { "name": "4 star", "count": 400 },
+      { "name": "3 star", "count": 180 },
+      { "name": "2 star", "count": 40 },
+      { "name": "1 star", "count": 30 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/21jy9kKN/Meditate-Now.png",
+    "title": "MeditateNow",
+    "companyName": "PeaceApps",
+    "description": "MeditateNow guides you through mindfulness and relaxation.\nIt includes guided meditations, sleep stories, ambient sounds, and breathing exercises.\nDaily reminders, streak tracking, and mood logs help you stay consistent.\nGreat tool for stress relief, better sleep, and mental well-being.",
+    "size": 32,
+    "reviews": 930,
+    "ratingAvg": 4.5,
+    "downloads": "44k",
+    "ratings": [
+      { "name": "5 star", "count": 600 },
+      { "name": "4 star", "count": 230 },
+      { "name": "3 star", "count": 80 },
+      { "name": "2 star", "count": 15 },
+      { "name": "1 star", "count": 5 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/7db0JZHV/Budget-Track.jpg",
+    "title": "BudgetTrack",
+    "companyName": "FinanceSoft",
+    "description": "BudgetTrack gives you full control over your finances.\nLog expenses and income, set budgets by category, and track savings goals.\nGenerate monthly reports, charts, and alerts when you overspend.\nSync with bank accounts or input manually, and view trends over time.",
+    "size": 30,
+    "reviews": 810,
+    "ratingAvg": 4.3,
+    "downloads": "47k",
+    "ratings": [
+      { "name": "5 star", "count": 460 },
+      { "name": "4 star", "count": 240 },
+      { "name": "3 star", "count": 80 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/N6F4DB36/News-Flash2.png",
+    "title": "NewsFlash",
+    "companyName": "MediaHub",
+    "description": "NewsFlash delivers breaking news from around the world.\nCustomize your topics, get instant alerts, and read articles offline.\nIt supports video news, live updates, and local news filters.\nShare articles and follow authors or publications you trust.",
+    "size": 58,
+    "reviews": 1170,
+    "ratingAvg": 4.4,
+    "downloads": "72k",
+    "ratings": [
+      { "name": "5 star", "count": 650 },
+      { "name": "4 star", "count": 320 },
+      { "name": "3 star", "count": 150 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/ZRRv1Xrr/TaskFlow.png",
+    "title": "TaskFlow",
+    "companyName": "WorkSmart",
+    "description": "TaskFlow is your productivity assistant.\nCreate tasks, subtasks, deadlines, and reminders.\nCollaborate, assign tasks, track progress, and view calendar sync.\nIdeal for individuals and teams to stay organized and efficient.",
+    "size": 33,
+    "reviews": 760,
+    "ratingAvg": 4.3,
+    "downloads": "42k",
+    "ratings": [
+      { "name": "5 star", "count": 420 },
+      { "name": "4 star", "count": 200 },
+      { "name": "3 star", "count": 90 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/0VDstYZs/Shop-Smart.png",
+    "title": "ShopSmart",
+    "companyName": "RetailX",
+    "description": "ShopSmart helps you shop smarter and save money.\nCompare prices, track deals, get coupons, and cashback.\nWishlist, order tracking, and alerts make shopping easier.\nIt supports multiple stores and syncs across your devices.",
+    "size": 68,
+    "reviews": 1020,
+    "ratingAvg": 4.5,
+    "downloads": "80k",
+    "ratings": [
+      { "name": "5 star", "count": 600 },
+      { "name": "4 star", "count": 280 },
+      { "name": "3 star", "count": 100 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/8nNg93jL/EduPlus.png",
+    "title": "EduPlus",
+    "companyName": "LearnMore",
+    "description": "EduPlus is the learning platform for students and professionals.\nAccess video lectures, quizzes, assignments, and interactive lessons.\nTrack progress, earn badges, and participate in community discussions.\nSupport for multiple subjects and certificate generation included.",
+    "size": 82,
+    "reviews": 1380,
+    "ratingAvg": 4.6,
+    "downloads": "95k",
+    "ratings": [
+      { "name": "5 star", "count": 800 },
+      { "name": "4 star", "count": 400 },
+      { "name": "3 star", "count": 130 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/WbfW07g/MusicBox.png",
+    "title": "MusicBox",
+    "companyName": "SoundLabs",
+    "description": "MusicBox gives you access to millions of songs.\nCreate playlists, download offline, and stream with high quality audio.\nDiscover new artists, curated playlists, and personalized recommendations.\nCross-device sync ensures your library always stays up to date.",
+    "size": 100,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": "180k",
+    "ratings": [
+      { "name": "5 star", "count": 1200 },
+      { "name": "4 star", "count": 650 },
+      { "name": "3 star", "count": 180 },
+      { "name": "2 star", "count": 50 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/mCqHnRLR/Code-Space.png",
+    "title": "CodeSpace",
+    "companyName": "DevWorks",
+    "description": "CodeSpace is a mobile coding environment.\nWrite, test, and deploy code from your phone or tablet.\nSupports JavaScript, Python, HTML/CSS, and more.\nIncludes debugging, version control, and syntax highlighting features.",
+    "size": 112,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": "61k",
+    "ratings": [
+      { "name": "5 star", "count": 500 },
+      { "name": "4 star", "count": 260 },
+      { "name": "3 star", "count": 90 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/k2wKNqwb/Weather-View.png",
+    "title": "WeatherView",
+    "companyName": "SkyData",
+    "description": "WeatherView gives you real-time weather and forecasts.\nIncludes radar maps, hourly/daily forecasts, severe alerts, and air quality index.\nChoose your locations, add widgets, and view historical weather data.\nUseful for planning your day or travel in advance.",
+    "size": 35,
+    "reviews": 780,
+    "ratingAvg": 4.2,
+    "downloads": "54k",
+    "ratings": [
+      { "name": "5 star", "count": 400 },
+      { "name": "4 star", "count": 230 },
+      { "name": "3 star", "count": 100 },
+      { "name": "2 star", "count": 30 },
+      { "name": "1 star", "count": 20 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/gbpqyk8N/Crypto-Track.png",
+    "title": "CryptoTrack",
+    "companyName": "FinTechNow",
+    "description": "CryptoTrack helps you monitor cryptocurrency markets in real time.\nBuild portfolios, get price alerts, and analyze trends with charts.\nSupports many coins and exchanges.\nSecure APIs and alerts help you stay ahead in trading.",
+    "size": 50,
+    "reviews": 920,
+    "ratingAvg": 4.4,
+    "downloads": "75k",
+    "ratings": [
+      { "name": "5 star", "count": 620 },
+      { "name": "4 star", "count": 210 },
+      { "name": "3 star", "count": 60 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/7JcSMn1T/BookNest.jpg",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "description": "BookNest offers a library of ebooks and audiobooks.\nBrowse genres, download offline, and sync your place across devices.\nBookmark, highlight, search inside books, and listen with narration.\nGreat for readers and learners on the go.",
+    "size": 88,
+    "reviews": 760,
+    "ratingAvg": 4.3,
+    "downloads": "62k",
+    "ratings": [
+      { "name": "5 star", "count": 420 },
+      { "name": "4 star", "count": 240 },
+      { "name": "3 star", "count": 70 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/Yr8z46P/stream.jpg",
+    "title": "StreamNow",
+    "companyName": "VisionTech",
+    "description": "StreamNow is a video streaming platform with premium content.\nWatch movies, TV shows, live streams and more.\nDownload for offline viewing, set watchlists, and get tailored recommendations.\nMulti-device streaming and parental controls included.",
+    "size": 140,
+    "reviews": 2000,
+    "ratingAvg": 4.7,
+    "downloads": "160k",
+    "ratings": [
+      { "name": "5 star", "count": 1100 },
+      { "name": "4 star", "count": 600 },
+      { "name": "3 star", "count": 200 },
+      { "name": "2 star", "count": 50 },
+      { "name": "1 star", "count": 50 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/q38jfKj2/Mindmap.png",
+    "title": "MindMap",
+    "companyName": "BrainWare",
+    "description": "MindMap empowers your brainstorming and idea visualization.\nCreate flowcharts, diagrams, mind maps, and cluster ideas visually.\nUse drag-and-drop, export as image or PDF, and collaborate with others.\nGreat for planning, study, or creative thinking sessions.",
+    "size": 78,
+    "reviews": 610,
+    "ratingAvg": 4.4,
+    "downloads": "30k",
+    "ratings": [
+      { "name": "5 star", "count": 340 },
+      { "name": "4 star", "count": 180 },
+      { "name": "3 star", "count": 60 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://i.ibb.co.com/TxgVKFxt/PetCare.png",
+    "title": "PetCare",
+    "companyName": "VetSoft",
+    "description": "PetCare helps you manage your pet’s health and schedule.\nSet reminders for vaccinations, grooming, appointments, and medications.\nStore vet records, track growth, and log behaviors.\nPerfect tool for pet parents who want peace of mind.",
+    "size": 45,
+    "reviews": 540,
+    "ratingAvg": 4.3,
+    "downloads": "25k",
+    "ratings": [
+      { "name": "5 star", "count": 300 },
+      { "name": "4 star", "count": 160 },
+      { "name": "3 star", "count": 50 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://i.ibb.co.com/TBLHPRH5/Sleep-Well.png",
+    "title": "SleepWell",
+    "companyName": "DreamSoft",
+    "description": "SleepWell helps you improve your sleep habits.\nTrack sleep phases, set bedtime reminders, and listen to soothing sounds.\nUse the smart alarm to wake during light sleep and view weekly trends.\nIncludes white noise, ambient music, and breathing exercises.",
+    "size": 38,
+    "reviews": 690,
+    "ratingAvg": 4.4,
+    "downloads": "48k",
+    "ratings": [
+      { "name": "5 star", "count": 380 },
+      { "name": "4 star", "count": 200 },
+      { "name": "3 star", "count": 80 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://i.ibb.co.com/gbPFxmNs/Language-Pal.png",
+    "title": "LanguagePal",
+    "companyName": "LinguaTech",
+    "description": "LanguagePal offers immersive language learning.\nUse lessons, quizzes, speaking exercises, and flashcards.\nTrack your progress, set daily goals, and practice with native speakers.\nSupports many languages and adapts to your learning style.",
+    "size": 54,
+    "reviews": 830,
+    "ratingAvg": 4.5,
+    "downloads": "40k",
+    "ratings": [
+      { "name": "5 star", "count": 470 },
+      { "name": "4 star", "count": 240 },
+      { "name": "3 star", "count": 90 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://i.ibb.co.com/VYh74vx3/Daily-Quotes.png",
+    "title": "DailyQuotes",
+    "companyName": "MotivApp",
+    "description": "DailyQuotes delivers inspirational quotes and affirmations.\nGet a new quote each day, browse categories, share to social media.\nSave your favorites, set reminders, and create quote collections.\nPerfect companion for daily motivation and positivity.",
+    "size": 22,
+    "reviews": 580,
+    "ratingAvg": 4.4,
+    "downloads": "35k",
+    "ratings": [
+      { "name": "5 star", "count": 320 },
+      { "name": "4 star", "count": 160 },
+      { "name": "3 star", "count": 60 },
+      { "name": "2 star", "count": 20 },
+      { "name": "1 star", "count": 10 }
+    ]
+  }
+]
+

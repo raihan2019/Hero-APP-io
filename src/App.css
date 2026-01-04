@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.main-menu a.active , .side-menu a.active{
+  @apply bg-linear-to-tl from-[#632ee3] to-[#9f62f2] bg-clip-text text-transparent;
+}
