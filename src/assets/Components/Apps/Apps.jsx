@@ -5,9 +5,9 @@ import { Link } from 'react-router';
 
 const Apps = ({ app}) => {
     return (
-        <Link to={`/apps/${app.id}`} className="card w-[296px] justify-self-center rounded-xl bg-white border-gray-300 border transform transition ease-in-out duration-200 hover:border-gray-600 hover:scale-105 p-2">
+        <Link to={`/apps/${app.id}`} className="card w-[348px] h-[435px] justify-self-center bg-white border-gray-300 border transform transition ease-in-out duration-200 hover:border-gray-600 hover:scale-105 p-2 gap-16">
                             <figure>
-                                <img src={app.image} alt="" className='w-[280px] h-[280px] rounded-xl' />
+                                <img src={app.image} alt="" className='w-[290px] h-[290px] rounded-xl'/>
                             </figure>
                             <h3 className="text-xl text-left font-semibold">
                                 {app.title}

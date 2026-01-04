@@ -15,7 +15,7 @@ const Footer = () => {
 
                 
                 <p className="text-lg col-span-2 lg:col-span-1 lg:col-start-2  text-center">
-                    We make App to smooth your technology journey. Our apps are user friendly and more effective than other's app. If you need any types of query don't be hesitate to contact with us . We will appreciate your approach.
+                    Empowering Your Digital Experience with Seamless App Management
                 </p>
                 
 
@@ -36,7 +36,7 @@ const Footer = () => {
 
             </div>
             <div className="text-white">                
-                <h3 className='text-center mt-5'>Copyright © 2025 - All right reserved</h3>
+                <h3 className='text-center mt-5'>Copyright © 2026 - All right reserved</h3>
             </div>
             
         </div>

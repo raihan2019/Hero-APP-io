@@ -50,7 +50,7 @@ const AppComponent = () => {
                         ({searchedApp.length}) Apps Found
                     </h2>
                     <label className='input'>
-                        <input value={search} onChange={e => {setSearch(e.target.value) }} type="search" name="" id="" placeholder='Search App' />
+                        <input value={search} onChange={e => {setSearch(e.target.value) }} type="search" name="" id="" placeholder='Search App'/>
                     </label>
                     
                 </div>

@@ -4,7 +4,7 @@ import Ratings from '../../assets/icon-ratings.png'
 import AppError2 from '../Error/AppError2';
 import { toast } from 'react-toastify';
 
-const Installtion = () => {
+const Installation = () => {
     const [appList , setAppList] =useState([]);
    
     
@@ -108,4 +108,4 @@ const Installtion = () => {
     );
 };
 
-export default Installtion;
+export default Installation;
