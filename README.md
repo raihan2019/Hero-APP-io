@@ -166,10 +166,10 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-**MD Raihan**
+**MD RAIHAN**
 
 - GitHub: https://github.com/raihan2019
-- Live Server Link: https://heroapp-io.netlify.app/
+- Live Server Link: https://hero-ioapp.netlify.app/
 ---
 
 ## 📝 License

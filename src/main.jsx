@@ -8,7 +8,8 @@ import Home from './assets/Home/Home.jsx';
 import Error from './assets/Components/Error/Error.jsx';
 import AppComponent from './assets/Components/AppComponent/AppComponent.jsx';
 import AppDetails from './assets/Components/AppComponent/AppDetails.jsx';
-import Installtion from './assets/Components/Installation/Installtion.jsx';
+import Installtion from './assets/Components/Installation/Installation.jsx';
+import Installation from './assets/Components/Installation/Installation.jsx';
 
 
 
@@ -23,7 +24,7 @@ const router = createBrowserRouter([
           { path: "/apps", Component: AppComponent },
           { path: '/apps/:id', Component: AppDetails},
   
-          { path: "/install", Component: Installtion },
+          { path: "/install", Component: Installation },
           { path: "*" , Component: Error},
         ],
   },
